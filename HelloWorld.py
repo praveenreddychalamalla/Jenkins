@@ -7,6 +7,6 @@ now = datetime.now()
 todays_date = today.strftime("%B %d, %Y")
 current_time = now.strftime("%H:%M:%S")
 
-print("Integrating Jenkins with GIT ")
+print("Integrating Jenkins with GIT, checking webhooks")
 print("Date : ", todays_date)
 print("Current Time : ", current_time)
