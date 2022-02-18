@@ -1,3 +1,5 @@
+!/usr/bin/python3
+
 from datetime import datetime
 from datetime import date
 today = date.today()
